@@ -15,7 +15,8 @@ This project automates the support tickets with the help of Natural Language Pro
 * **Output:** Multi-class classification of Tickets
 
 # [Project 2: Collection Model Developement]
-![alt text](sangga-rima-roman-selia-W-KxFFCYqSU-unsplash.jpg)
+![alt text](sean-pollock-PhYq704ffdA-unsplash.jpg)
+
 
 This project is used for developemnet of collection models .
 * **Python libraries used:** 
