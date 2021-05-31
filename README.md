@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tns007/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Tarkeshwar Narayan Sharma
+*Data Scientist | NLP | Deep Learning | Machine Learning | Artificial intelligence
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Professional summary
+* Data Scientist with over 4 years of cross-industry experience in developing end-to-end data science solutions and providing actionable business insights.
+* Proficient in building statistical and predictive models using Python in Retail, E-commerce, Healthcare and Finance industries. Fortes include Machine-learning, Statistics, Deep Learning and Natural Language Processing
 
-### Markdown
+# [Project 1: Smart ticket classification]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project automates the support tickets with the help of Natural Language Processing.
+* **Python libraries used:** AWS sagemaker, Huggingface, TensorFlow
+* **Input:** Support tickets
+* **Output:** Multi-class classification of Tickets
 
-```markdown
-Syntax highlighted code block
+# [Project 2: Collection Model Developement]
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tns007/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This project is used for developemnet of collection models .
+* **Python libraries used:** 
+* **Input:** customer information
+* **Output:** Model score
+view rawREADME_1.txt hosted with ❤ by GitHub
